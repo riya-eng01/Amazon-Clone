@@ -1,6 +1,6 @@
 # Amazon Homepage Clone
 
-![Amazon Homepage Clone Demo](AmazonClone.gif)
+![Amazon-Clone](Images/AmazonClone.gif)
 
 A static front-end clone of the Amazon homepage built using HTML and CSS. This project recreates the visual appearance of Amazon's landing page, including the navigation bar, hero section, product categories, and footer. The primary goal of this project was to practice web development fundamentals and improve my understanding of page layouts and styling techniques.
 
