@@ -15,15 +15,15 @@ A static front-end clone of the Amazon homepage built using HTML and CSS. This p
 - Built using only HTML and CSS
 
 🛠️ Technologies Used
-HTML5
-CSS3
-Flexbox
-CSS Grid
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
 
 🎯 What I Learned
-Structuring web pages using semantic HTML
-Styling layouts with CSS
-Using Flexbox and Grid for page design
-Creating navigation bars and content sections
-Organizing project files and assets
-Improving front-end development skills
+- Structuring web pages using semantic HTML
+- Styling layouts with CSS
+- Using Flexbox and Grid for page design
+- Creating navigation bars and content sections
+- Organizing project files and assets
+- Improving front-end development skills
