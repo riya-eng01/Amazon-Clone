@@ -5,14 +5,14 @@
 A static front-end clone of the Amazon homepage built using HTML and CSS. This project recreates the visual appearance of Amazon's landing page, including the navigation bar, hero section, product categories, and footer. The primary goal of this project was to practice web development fundamentals and improve my understanding of page layouts and styling techniques.
 
 🚀 Features
--Amazon-inspired homepage layout
--Navigation bar with search section
--Hero banner section
--Product category cards
--Multiple content sections
--Footer section
--Clean and structured user interface
--Built using only HTML and CSS
+- Amazon-inspired homepage layout
+- Navigation bar with search section
+- Hero banner section
+- Product category cards
+- Multiple content sections
+- Footer section
+- Clean and structured user interface
+- Built using only HTML and CSS
 
 🛠️ Technologies Used
 HTML5
